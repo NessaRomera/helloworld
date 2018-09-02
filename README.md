@@ -1,2 +1,3 @@
 # helloworld
-Meu primeiro repositório teste no GitHub
+Meu primeiro repositório teste no GitHug
+Quero aprender a programar cada dia mais :)
